@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PhilKern65
 - 👀 I’m interested in Raspberry Pi Micro Controllers.
 - 🌱 I’m currently studying Electronics and Communications.
-- 💞️ I’m looking to collaborate with Weather and Amateur Radio (HAM) Projects using Python.
+- 💞️ I’m looking to collaborate on Weather and Amateur Radio (HAM) Projects using Python.
 - 📫 How to reach me phil.kern@staff.kernwifi.com.au.
 
 <!---
